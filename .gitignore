@@ -66,5 +66,5 @@ pluginsService.js
 build/
 
 # Twilio Serverless
-.twilio-functions
+.twiliodeployinfo
 
