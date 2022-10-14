@@ -1,6 +1,6 @@
 import React from 'react';
 import { VERSION, Notifications, NotificationType } from '@twilio/flex-ui';
-import { FlexPlugin } from 'flex-plugin';
+import { FlexPlugin } from '@twilio/flex-plugin';
 
 import reducers, { namespace } from './states';
 import PauseRecordingButton from './components/RecordingButton/PauseRecordingButton';
