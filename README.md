@@ -1,8 +1,8 @@
+# Notice - Legacy Code
+
+**This plugin is no longer maintained and has been migrated to the [Flex Plugin Library](https://www.twilio.com/docs/flex/developer/plugins/plugin-library) where it is available as an out-of-box feature. The plugin is also available as part of the customizable [Flex Project Template](https://github.com/twilio-professional-services/flex-project-template), where it is an optional feature.**
+
 # Pause & Resume Call Recording Flex Plugin
-
-## Notice
-
-This plugin is no longer maintained as of October 17th, 2022. Work to maintain this feature in Flex V2 has been moved over to the [Twilio Professional Services Flex Project Template](https://github.com/twilio-professional-services/twilio-proserv-flex-project-template) where it is an [optional feature](https://github.com/twilio-professional-services/flex-project-template/tree/main/plugin-flex-ts-template-v2/src/feature-library/pause-recording/README.md)
 
 ## Flex Plugin
 
